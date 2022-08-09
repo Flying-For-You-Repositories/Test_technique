@@ -1,0 +1,16 @@
+.coucou {
+    position: absolute;
+    top: 6px;
+    padding: 0 10px;
+    font-size: 18px;
+    z-index: 0;
+    transition: transform 0.2s;
+    color: #999;
+}
+
+.coucou2 {
+    color: black;
+    font-size: 14px;
+    background-color: white;
+    transform: translate(5px, -18px);
+}
